@@ -1,0 +1,7 @@
+{
+  "name": "Image prompt pro",
+  "description": "Ultra-realistic prompt engineering tool for Gemini Nano Banana with strict identity preservation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
